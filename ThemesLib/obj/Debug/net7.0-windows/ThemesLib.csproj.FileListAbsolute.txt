@@ -1,0 +1,17 @@
+D:\CPRJ\Library2.0\ThemesLib\bin\Debug\net7.0-windows\ThemesLib.deps.json
+D:\CPRJ\Library2.0\ThemesLib\bin\Debug\net7.0-windows\ThemesLib.dll
+D:\CPRJ\Library2.0\ThemesLib\bin\Debug\net7.0-windows\ThemesLib.pdb
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.csproj.AssemblyReference.cache
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\Themes\BlueTheme.baml
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\Themes\RedTheme.baml
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib_MarkupCompile.cache
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.g.resources
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.AssemblyInfoInputs.cache
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.AssemblyInfo.cs
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.csproj.CoreCompileInputs.cache
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.dll
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\refint\ThemesLib.dll
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ThemesLib.pdb
+D:\CPRJ\Library2.0\ThemesLib\obj\Debug\net7.0-windows\ref\ThemesLib.dll

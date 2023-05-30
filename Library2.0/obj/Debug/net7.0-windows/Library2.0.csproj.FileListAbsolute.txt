@@ -23,6 +23,6 @@ D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\refint\Library2.0.dll
 D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\Library2.0.pdb
 D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\Library2.0.genruntimeconfig.cache
 D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\ref\Library2.0.dll
-D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\WpfCustomControlLibrary.dll
-D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\WpfCustomControlLibrary.pdb
 D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\App.baml
+D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\ThemesLib.dll
+D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\ThemesLib.pdb

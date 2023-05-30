@@ -81,8 +81,8 @@
     },
     "ThemesLib/1.0.0": {
       "type": "project",
-      "path": "../WpfCustomControlLibrary/ThemesLib.csproj",
-      "msbuildProject": "../WpfCustomControlLibrary/ThemesLib.csproj"
+      "path": "../ThemesLib/ThemesLib.csproj",
+      "msbuildProject": "../ThemesLib/ThemesLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -121,8 +121,8 @@
             "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj": {
               "projectPath": "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj"
             },
-            "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj": {
-              "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj"
+            "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj": {
+              "projectPath": "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj"
             }
           }
         }

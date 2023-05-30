@@ -31,8 +31,8 @@
               "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj": {
                 "projectPath": "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj"
               },
-              "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj": {
-                "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj"
+              "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj": {
+                "projectPath": "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj": {
+    "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj",
+        "projectUniqueName": "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj",
         "projectName": "ThemesLib",
-        "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj",
+        "projectPath": "D:\\CPRJ\\Library2.0\\ThemesLib\\ThemesLib.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\obj\\",
+        "outputPath": "D:\\CPRJ\\Library2.0\\ThemesLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",

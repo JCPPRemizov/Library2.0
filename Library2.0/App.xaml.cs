@@ -22,7 +22,7 @@ namespace Library2._0
                 _theme = value;
                 var dict = new ResourceDictionary
                 {
-                    Source = new Uri($"pack://application:,,,/WpfCustomControlLibrary;component/Themes/{value}",
+                    Source = new Uri($"pack://application:,,,/ThemesLib;component/Themes/{value}",
                         UriKind.Absolute)
                 };
                 Current.Resources.MergedDictionaries.RemoveAt(0);

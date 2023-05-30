@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Library2.0/1.0.0": {
         "dependencies": {
-          "WpfCustomControlLibrary": "1.0.0",
+          "ThemesLib": "1.0.0",
           "libSerializator": "1.0.0"
         },
         "runtime": {
@@ -31,9 +31,9 @@
           "libSerializator.dll": {}
         }
       },
-      "WpfCustomControlLibrary/1.0.0": {
+      "ThemesLib/1.0.0": {
         "runtime": {
-          "WpfCustomControlLibrary.dll": {}
+          "ThemesLib.dll": {}
         }
       }
     }
@@ -56,7 +56,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "WpfCustomControlLibrary/1.0.0": {
+    "ThemesLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

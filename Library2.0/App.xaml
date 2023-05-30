@@ -6,7 +6,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/WpfCustomControlLibrary;component/Themes/BlueTheme.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="pack://application:,,,/ThemesLib;component/Themes/BlueTheme.xaml"></ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
