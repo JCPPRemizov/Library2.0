@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zc9fUEb6HHnFyHZHHsAv9aP9ocDb7P3b+XL/pksH1tt0BPuGlVAf1pL1hiPVYf8qNZvjWO8PAXeQJ3RxTHi9SA==",
+  "success": true,
+  "projectFilePath": "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

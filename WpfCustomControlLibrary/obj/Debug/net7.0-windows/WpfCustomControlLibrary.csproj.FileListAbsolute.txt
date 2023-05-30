@@ -1,0 +1,17 @@
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\bin\Debug\net7.0-windows\WpfCustomControlLibrary.deps.json
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\bin\Debug\net7.0-windows\WpfCustomControlLibrary.dll
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\bin\Debug\net7.0-windows\WpfCustomControlLibrary.pdb
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.csproj.AssemblyReference.cache
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\Themes\RedTheme.baml
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary_MarkupCompile.cache
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.g.resources
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.AssemblyInfoInputs.cache
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.AssemblyInfo.cs
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.csproj.CoreCompileInputs.cache
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.dll
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\refint\WpfCustomControlLibrary.dll
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\WpfCustomControlLibrary.pdb
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\ref\WpfCustomControlLibrary.dll
+D:\CPRJ\Library2.0\WpfCustomControlLibrary\obj\Debug\net7.0-windows\Themes\BlueTheme.baml

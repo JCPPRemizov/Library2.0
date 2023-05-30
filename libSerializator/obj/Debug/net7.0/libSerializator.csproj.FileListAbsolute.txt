@@ -1,0 +1,12 @@
+D:\CPRJ\Library2.0\libSerializator\bin\Debug\net7.0\libSerializator.deps.json
+D:\CPRJ\Library2.0\libSerializator\bin\Debug\net7.0\libSerializator.dll
+D:\CPRJ\Library2.0\libSerializator\bin\Debug\net7.0\libSerializator.pdb
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.csproj.AssemblyReference.cache
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.AssemblyInfoInputs.cache
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.AssemblyInfo.cs
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.csproj.CoreCompileInputs.cache
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.dll
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\refint\libSerializator.dll
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\libSerializator.pdb
+D:\CPRJ\Library2.0\libSerializator\obj\Debug\net7.0\ref\libSerializator.dll

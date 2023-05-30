@@ -1,0 +1,32 @@
+﻿<Window x:Class="Library2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library2._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="IDBox" TextWrapping="Wrap"/>
+        <TextBox Name="NameBox"  Grid.Column="0" Grid.Row="1" TextWrapping="Wrap"/>
+        <TextBox Name="AgeBox" Grid.Column="0" Grid.Row="2" TextWrapping="Wrap"/>
+        <Button Name="SubmitButton" Grid.Column="0" Grid.Row="3" Content="Сохранить" Click="SubmitButton_Click"/>
+        <Button  Name="LoadButton"  Content="Загрузить" Grid.Column="0" Grid.Row="4" Click="LoadButton_Click"/>
+        <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Персональный идентификатор"/>
+        <TextBlock Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Имя"/>
+        <TextBlock Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Возраст"/>
+        <Button  Name="ChangeThemeButton" Grid.Column="1" Grid.Row="3" Content="Изменить тему" Click="ChangeThemeButton_Click"/>
+    </Grid>
+</Window>
