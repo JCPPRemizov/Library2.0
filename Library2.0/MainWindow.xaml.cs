@@ -72,14 +72,7 @@ namespace Library2._0
 
         private void ChangeThemeButton_Click(object sender, RoutedEventArgs e)
         {
-            if (App.Theme == "RedTheme.xaml")
-            {
-                App.Theme = "BlueTheme.xaml";
-            }
-            else
-            {
-                App.Theme = "RedTheme.xaml";
-            }
+            App.Theme = App.Theme == "RedTheme.xaml" ? "BlueTheme.xaml" : "RedTheme.xaml";
         }
     }
 }
