@@ -19,14 +19,15 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <TextBox Name="IDBox" TextWrapping="Wrap"/>
+        <TextBox Name="IDBox" TextWrapping="Wrap" PreviewTextInput="IDBox_PreviewTextInput"/>
         <TextBox Name="NameBox"  Grid.Column="0" Grid.Row="1" TextWrapping="Wrap"/>
-        <TextBox Name="AgeBox" Grid.Column="0" Grid.Row="2" TextWrapping="Wrap"/>
-        <Button Name="SubmitButton" Grid.Column="0" Grid.Row="3" Content="Сохранить" Click="SubmitButton_Click"/>
-        <Button  Name="LoadButton"  Content="Загрузить" Grid.Column="0" Grid.Row="4" Click="LoadButton_Click"/>
-        <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Персональный идентификатор"/>
-        <TextBlock Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Имя"/>
-        <TextBlock Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Возраст"/>
-        <Button  Name="ChangeThemeButton" Grid.Column="1" Grid.Row="3" Content="Изменить тему" Click="ChangeThemeButton_Click"/>
+        <TextBox Name="AgeBox" Grid.Column="0" Grid.Row="2" TextWrapping="Wrap" PreviewTextInput="AgeBox_PreviewTextInput"/>
+        <Button Name="SubmitButton" Grid.Column="0" Grid.Row="3" Content="{DynamicResource w_Save}" Click="SubmitButton_Click"/>
+        <Button  Name="LoadButton"  Content="{DynamicResource w_Load}" Grid.Column="0" Grid.Row="4" Click="LoadButton_Click"/>
+        <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource w_ID}"/>
+        <TextBlock Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource w_Name}"/>
+        <TextBlock Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource w_Age}"/>
+        <Button  Name="ChangeThemeButton" Grid.Column="1" Grid.Row="3" Content="{DynamicResource w_Theme}" Click="ChangeThemeButton_Click"/>
+        <Button Name="ChangeLanButton" Grid.Column="1" Grid.Row="4" Content="{DynamicResource w_Language}" Click="ChangeLanButton_Click"/>
     </Grid>
 </Window>

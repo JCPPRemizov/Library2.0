@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library2.0", "Library2.0\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libSerializator", "libSerializator\libSerializator.csproj", "{CCDCEF44-B487-4670-8064-0CD6DC91DAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemesLib", "ThemesLib\ThemesLib.csproj", "{06D9D933-3E4D-40BC-AB00-FA0B1E1E27A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemesLib", "ThemesLib\ThemesLib.csproj", "{06D9D933-3E4D-40BC-AB00-FA0B1E1E27A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageLib", "LanguageLib\LanguageLib.csproj", "{02E63E37-E72E-432E-A4A3-E3E9ED96BFBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{06D9D933-3E4D-40BC-AB00-FA0B1E1E27A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D9D933-3E4D-40BC-AB00-FA0B1E1E27A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D9D933-3E4D-40BC-AB00-FA0B1E1E27A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E63E37-E72E-432E-A4A3-E3E9ED96BFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E63E37-E72E-432E-A4A3-E3E9ED96BFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E63E37-E72E-432E-A4A3-E3E9ED96BFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E63E37-E72E-432E-A4A3-E3E9ED96BFBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

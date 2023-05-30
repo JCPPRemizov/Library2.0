@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <system:String x:Key="w_Save">Save</system:String>
+    <system:String x:Key="w_Load">Load</system:String>
+    <system:String x:Key="w_ID">ID</system:String>
+    <system:String x:Key="w_Name">Name</system:String>
+    <system:String x:Key="w_Age">Age</system:String>
+    <system:String x:Key="w_Theme">Change Theme</system:String>
+    <system:String x:Key="w_Language">Change Language</system:String>
+</ResourceDictionary>

@@ -26,3 +26,5 @@ D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\ref\Library2.0.dll
 D:\CPRJ\Library2.0\Library2.0\obj\Debug\net7.0-windows\App.baml
 D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\ThemesLib.dll
 D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\ThemesLib.pdb
+D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\LanguageLib.dll
+D:\CPRJ\Library2.0\Library2.0\bin\Debug\net7.0-windows\LanguageLib.pdb

@@ -15,6 +15,19 @@
           }
         }
       },
+      "LanguageLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LanguageLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LanguageLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "libSerializator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -74,6 +87,11 @@
         "packageIcon.png"
       ]
     },
+    "LanguageLib/1.0.0": {
+      "type": "project",
+      "path": "../LanguageLib/LanguageLib.csproj",
+      "msbuildProject": "../LanguageLib/LanguageLib.csproj"
+    },
     "libSerializator/1.0.0": {
       "type": "project",
       "path": "../libSerializator/libSerializator.csproj",
@@ -87,6 +105,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
+      "LanguageLib >= 1.0.0",
       "ThemesLib >= 1.0.0",
       "libSerializator >= 1.0.0"
     ]
@@ -118,6 +137,9 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
+            "D:\\CPRJ\\Library2.0\\LanguageLib\\LanguageLib.csproj": {
+              "projectPath": "D:\\CPRJ\\Library2.0\\LanguageLib\\LanguageLib.csproj"
+            },
             "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj": {
               "projectPath": "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj"
             },

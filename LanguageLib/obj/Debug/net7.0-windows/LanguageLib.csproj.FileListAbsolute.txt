@@ -1,0 +1,17 @@
+D:\CPRJ\Library2.0\LanguageLib\bin\Debug\net7.0-windows\LanguageLib.deps.json
+D:\CPRJ\Library2.0\LanguageLib\bin\Debug\net7.0-windows\LanguageLib.dll
+D:\CPRJ\Library2.0\LanguageLib\bin\Debug\net7.0-windows\LanguageLib.pdb
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.csproj.AssemblyReference.cache
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib_MarkupCompile.cache
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.g.resources
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.AssemblyInfoInputs.cache
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.AssemblyInfo.cs
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.csproj.CoreCompileInputs.cache
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.dll
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\refint\LanguageLib.dll
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\LanguageLib.pdb
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\ref\LanguageLib.dll
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\Themes\ENLan.baml
+D:\CPRJ\Library2.0\LanguageLib\obj\Debug\net7.0-windows\Themes\RULan.baml

@@ -15,6 +15,7 @@ namespace Library2._0
         public MainWindow()
         {
             InitializeComponent();
+            
         }
 
         private void SubmitButton_Click(object sender, RoutedEventArgs e)
@@ -72,7 +73,32 @@ namespace Library2._0
 
         private void ChangeThemeButton_Click(object sender, RoutedEventArgs e)
         {
-            App.Theme = App.Theme == "RedTheme.xaml" ? "BlueTheme.xaml" : "RedTheme.xaml";
+            App.Theme = App.Theme == "RedTheme" ? "BlueTheme" : "RedTheme";
+        }
+
+        private void ChangeLanButton_Click(object sender, RoutedEventArgs e)
+        {
+            App.Language = App.Language == "RULan" ? "ENLan" : "RULan";
+        }
+
+
+        private void IDBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            IsDigit(sender, e);
+        }
+
+        private void AgeBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            IsDigit(sender, e);
+        }
+
+        private void IsDigit(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            if (!Char.IsDigit(e.Text, 0))
+            {
+                e.Handled = true;
+                MessageBox.Show("Разрешены только цифры!");
+            }
         }
     }
 }

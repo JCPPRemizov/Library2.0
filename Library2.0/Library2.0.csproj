@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LanguageLib\LanguageLib.csproj" />
     <ProjectReference Include="..\libSerializator\libSerializator.csproj" />
     <ProjectReference Include="..\ThemesLib\ThemesLib.csproj" />
   </ItemGroup>

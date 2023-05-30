@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <system:String x:Key="w_Save">Сохранить</system:String>
+    <system:String x:Key="w_Load">Загрузить</system:String>
+    <system:String x:Key="w_ID">Персональный идентификатор</system:String>
+    <system:String x:Key="w_Name">Имя</system:String>
+    <system:String x:Key="w_Age">Возраст</system:String>
+    <system:String x:Key="w_Theme">Изменить тему</system:String>
+    <system:String x:Key="w_Language">Сменить язык</system:String>
+</ResourceDictionary>
