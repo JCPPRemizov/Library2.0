@@ -28,14 +28,14 @@
           "bin/placeholder/libSerializator.dll": {}
         }
       },
-      "WpfCustomControlLibrary/1.0.0": {
+      "ThemesLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/WpfCustomControlLibrary.dll": {}
+          "bin/placeholder/ThemesLib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/WpfCustomControlLibrary.dll": {}
+          "bin/placeholder/ThemesLib.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -79,15 +79,15 @@
       "path": "../libSerializator/libSerializator.csproj",
       "msbuildProject": "../libSerializator/libSerializator.csproj"
     },
-    "WpfCustomControlLibrary/1.0.0": {
+    "ThemesLib/1.0.0": {
       "type": "project",
-      "path": "../WpfCustomControlLibrary/WpfCustomControlLibrary.csproj",
-      "msbuildProject": "../WpfCustomControlLibrary/WpfCustomControlLibrary.csproj"
+      "path": "../WpfCustomControlLibrary/ThemesLib.csproj",
+      "msbuildProject": "../WpfCustomControlLibrary/ThemesLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "WpfCustomControlLibrary >= 1.0.0",
+      "ThemesLib >= 1.0.0",
       "libSerializator >= 1.0.0"
     ]
   },
@@ -121,8 +121,8 @@
             "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj": {
               "projectPath": "D:\\CPRJ\\Library2.0\\libSerializator\\libSerializator.csproj"
             },
-            "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj": {
-              "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj"
+            "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj": {
+              "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj"
             }
           }
         }

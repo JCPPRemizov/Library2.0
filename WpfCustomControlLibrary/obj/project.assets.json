@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
-      "projectName": "WpfCustomControlLibrary",
-      "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\WpfCustomControlLibrary.csproj",
+      "projectUniqueName": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj",
+      "projectName": "ThemesLib",
+      "projectPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\ThemesLib.csproj",
       "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
       "outputPath": "D:\\CPRJ\\Library2.0\\WpfCustomControlLibrary\\obj\\",
       "projectStyle": "PackageReference",

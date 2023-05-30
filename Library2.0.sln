@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library2.0", "Library2.0\Library2.0.csproj", "{B65BFF06-91EB-4801-A36E-9EAE3B218B82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library2.0", "Library2.0\Library2.0.csproj", "{B65BFF06-91EB-4801-A36E-9EAE3B218B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libSerializator", "libSerializator\libSerializator.csproj", "{CCDCEF44-B487-4670-8064-0CD6DC91DAEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libSerializator", "libSerializator\libSerializator.csproj", "{CCDCEF44-B487-4670-8064-0CD6DC91DAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCustomControlLibrary", "WpfCustomControlLibrary\WpfCustomControlLibrary.csproj", "{1FCB9B98-0A92-4F2C-8E0E-1F8DC8901BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThemesLib", "WpfCustomControlLibrary\ThemesLib.csproj", "{1FCB9B98-0A92-4F2C-8E0E-1F8DC8901BC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

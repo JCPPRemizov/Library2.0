@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\libSerializator\libSerializator.csproj" />
-    <ProjectReference Include="..\WpfCustomControlLibrary\WpfCustomControlLibrary.csproj" />
+    <ProjectReference Include="..\WpfCustomControlLibrary\ThemesLib.csproj" />
   </ItemGroup>
 
 </Project>
